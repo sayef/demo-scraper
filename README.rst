@@ -11,7 +11,7 @@ Commands:
 1. clean    : ``python setup.py clean``
 2. build    : ``python setup.py sdist``
       or      ``python setup.py bdist_wheel``
-3. install  : ``cd dist/```
+3. install  : ``cd dist/``
          &    ``pip install demo-x.x.x.tar.gz``
 4. run      : ``demo``
 5. uninstall: ``pip uninstall demo``
