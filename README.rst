@@ -6,7 +6,8 @@ A sample python project to demonstrate how to scrape using Scrapy
 3. Spider ``bdnews24_spider_7.py`` can download the news on some category. Provide category in line number 10 of startup.py. If you want to scrape periodically you can make it a commandline tool using following commands and then run the command whenever you need.
 
 
-### Commands:
+Commands:
+
 1. clean    : ``python setup.py clean``
 2. build    : ``python setup.py sdist``
       or      ``python setup.py bdist_wheel``
